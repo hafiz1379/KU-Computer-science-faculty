@@ -625,6 +625,7 @@
     .home-section-span {
       font-size: 1.3rem;
       font-weight: 600;
+      color: var(--orange-color);
     }
   
     #home-section-span-date {
@@ -730,10 +731,12 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      margin-top: 200px;
       padding-left: 20vw;
       padding-right: 20vw;
       height: fit-content;
+      background-image: url(../images/computer-science-vs.-software-engineering.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
     }
   
     .h1-about {
