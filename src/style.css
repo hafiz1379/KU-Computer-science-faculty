@@ -607,10 +607,12 @@
     }
   
     #home-section {
-      margin-top: 15%;
       padding-left: 20vw;
       padding-right: 10vw;
       height: fit-content;
+      background-image: url(../images/CO\ building.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
     }
   
     #home-section-span-title {
@@ -627,19 +629,24 @@
       padding: 30px;
       margin-bottom: 60px;
       border: 3px solid #fff;
+      background-color: rgba(220, 203, 203, 0.5);
     }
   
     .home-section-span {
-      font-size: 1rem;
+      font-size: 1.3rem;
+      font-weight: 600;
     }
   
     #home-section-span-date {
       font-size: 2.5rem;
       font-weight: 900;
+      color: var(--orange-color);
     }
   
     .home-section-span2 {
-      font-size: 1.5rem;
+      font-size: 2.5rem;
+      color: var(--orange-color);
+      font-weight: 900;
     }
   
     #program-section {
