@@ -340,7 +340,8 @@
   .about-main-div {
     background: #fff;
     color: var(--dark-color);
-    font-size: 1rem;
+    font-size: 1.1rem;
+    font-weight: 600;
     margin-bottom: 50px;
     display: flex;
     align-items: center;
@@ -390,8 +391,8 @@
   
   .past-events-img-container {
     width: 80%;
-    height: 200px;
-    background-image: linear-gradient(rgba(179, 43, 33, 0.6), rgba(179, 43, 33, 0.6)), url(Images/France.jpg);
+    height: 250px;
+    background-image: linear-gradient(rgba(179, 43, 33, 0.6), rgba(179, 43, 33, 0.6)), url(../images/CS\ building\ 2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -406,8 +407,8 @@
   
   .past-events-img-container2 {
     width: 80%;
-    height: 200px;
-    background-image: linear-gradient(rgba(179, 43, 33, 0.6), rgba(179, 43, 33, 0.6)), url(Images/Germany.jpg);
+    height: 250px;
+    background-image: linear-gradient(rgba(179, 43, 33, 0.6), rgba(179, 43, 33, 0.6)), url(../images/ST\ graduation.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -752,6 +753,8 @@
   
     .logo-section-p {
       display: inline;
+      font-size: 1.2rem;
+      font-weight: 600;
     }
   
     .past-events-container {
