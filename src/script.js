@@ -1,42 +1,42 @@
 const playerData = [
     {
-      img: './Images/Players/best.jpg',
-      name: 'Lionel Messi',
-      title: 'Best Player of the Tournament',
-      resume: 'Lionel Messi, who is considered one of the greatest football players of all time, represented Argentina in the FIFA World Cup 2022. He led his team with the hope of securing victory and adding to his impressive list of accolades.',
+      img: '../images/Economic.jpg',
+      name: 'Economic faculty',
+      title: 'Kabul University',
+      resume: 'The Economic Faculty of Kabul University offers comprehensive programs in economics, equipping students with knowledge and skills to understand and analyze economic systems, contribute to development, and pursue successful careers in various sectors.',
     },
     {
-      img: 'Images/Players/keaper.jpg',
-      name: 'Emiliano Martínez',
-      title: 'Best goalkeeper of the tournament',
-      resume: 'Emiliano Martínez, the goalkeeper for Argentina in the FIFA World Cup 2022, played an instrumental role in helping his team win the tournament, making crucial saves throughout the competition and solidifying his position as one of the best goalkeepers in the world.',
+      img: '../images/Bio and Phy.jpg',
+      name: 'Biology and Physics faculty',
+      title: 'Kabul University',
+      resume: 'The Biology and Physics Faculties at Kabul University offer specialized programs in their respective fields, providing students with a strong foundation of knowledge and practical skills to explore the intricacies of life sciences and physical phenomena, fostering scientific inquiry and discovery.',
     },
     {
-      img: 'Images/Players/goalsoccer.jpg',
-      name: 'Kylian Mbappé',
-      title: 'Best goal soccer of the tournament',
-      resume: 'Kylian Mbappé, the rising French football superstar, played a crucial role in France journey to the FIFA World Cup 2022, showcasing his impressive speed, skill, and goal-scoring ability throughout the tournament.',
-    },
-  
-    {
-      img: 'Images/Players/best goal.jpg',
-      name: 'Richarlison de Andrade',
-      title: 'Puskas award of the tournament',
-      resume: 'Richarlison de Andrade, the Brazilian forward, scored several important goals for his team in the FIFA World Cup 2022 and was recognized for his impressive performance by winning the award for the best goal of the tournament.',
+      img: '../images/Chemsitry.jpg',
+      name: 'Chemistry faculty',
+      title: 'Kabul University',
+      resume: 'The Chemistry Faculty at Kabul University offers comprehensive programs in chemistry, emphasizing theoretical and practical aspects of the discipline. Students gain knowledge and skills in various branches of chemistry, contributing to scientific research and practical applications in industries and academia.',
     },
   
     {
-      img: 'Images/Players/oldest.jpg',
-      name: 'Alfredo Talavera',
-      title: 'The Oldest player of the tournament ',
-      resume: 'Alfredo Talavera, the Mexican goalkeeper, was the oldest player of the FIFA World Cup 2022 tournament, demonstrating his skill and experience on the field despite his age.',
+      img: '../images/Jounalism.jpg',
+      name: 'Journalism faculty',
+      title: 'Kabul University',
+      resume: 'The Journalism Faculty at Kabul University offers rigorous programs that prepare students for careers in journalism, media, and communication. Students acquire skills in news reporting, media ethics, and storytelling, fostering critical thinking and responsible journalism practices.',
     },
   
     {
-      img: 'Images/Players/youngest.jpg',
-      name: 'Pablo Gavi',
-      title: 'The Youngest goal soccer of the tournament',
-      resume: 'Pablo Gavi, the Spanish midfielder, was the youngest goal scorer of the FIFA World Cup 2022 tournament, displaying his impressive talent and potential at a young age.',
+      img: '../images/Pharmacy.jpg',
+      name: 'Pharmacy faculty',
+      title: 'Kabul University ',
+      resume: 'The Pharmacy Faculty at Kabul University provides comprehensive programs in pharmaceutical sciences, training students in drug development, healthcare management, and patient care. Graduates contribute to the healthcare sector, ensuring safe and effective medication use for the community.',
+    },
+  
+    {
+      img: '../images/Turkish.jpg',
+      name: 'Turkish langauge faculty',
+      title: 'Kabul University',
+      resume: 'The Turkish Language Faculty at Kabul University offers specialized programs in Turkish language and culture, equipping students with language proficiency and cultural understanding for communication, academic pursuits, and cultural exchange between Afghanistan and Turkey.',
     },
   ];
   
