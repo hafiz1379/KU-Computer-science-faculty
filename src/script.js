@@ -46,7 +46,7 @@ const playerData = [
     element.forEach((author) => {
       author.innerHTML = ` 
         <div class= 'player-section-grid-item-imgholder'>
-          <img class='player-chess' src='./Images/Players/chess.jpg'>
+          <img class='player-chess' src='../images/chess.jpg'>
           <div class='player-img' style="background-image: url('${playerData[counter].img}');"></div>
         </div>
         <div class= 'player-section-grid-item-divtext'>
