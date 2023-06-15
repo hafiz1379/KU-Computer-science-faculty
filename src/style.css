@@ -473,10 +473,10 @@
   .footer-logo {
     width: 175px;
     height: 100px;
-    background-image: url(Images/logo.png);
+    background-image: url(../images/KU.jpg);
     background-repeat: no-repeat;
     background-size: contain;
-    margin-left: 14%;
+    margin-left: 16%;
   }
   
   .footer-p {
