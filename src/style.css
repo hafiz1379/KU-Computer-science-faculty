@@ -745,7 +745,7 @@
     }
   
     .logo-section {
-      height: 500px;
+      height: fit-content;
       border-top: 1px solid var(--light-color);
     }
   
