@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="./images/KU.jpg alt="logo" width="140"  height="auto" />
+  <img src="./images/KU.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Kabul University (Computer Science faculty)</b></h3>
